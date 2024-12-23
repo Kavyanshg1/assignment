@@ -28,7 +28,8 @@ Installation
 
 Clone the repository:
 
-1git clone https://github.com/yourusername/multi-step-form.git
+1git clone 
+https://github.com/kavyanshg1/assignment
 
 Install dependencies:
 

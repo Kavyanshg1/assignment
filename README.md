@@ -28,47 +28,24 @@ Installation
 
 Clone the repository:
 
-bash
-
-Verify
-
-Open In Editor
-Run
-Copy code
 1git clone https://github.com/yourusername/multi-step-form.git
-2cd multi-step-form
+
 Install dependencies:
 
-bash
-
-Verify
-
-Open In Editor
-Run
-Copy code
 1npm install
-2# or
+or
 3yarn install
+
 Run the development server:
 
-bash
-
-Verify
-
-Open In Editor
-Run
-Copy code
 1npm run dev
-2# or
+or
 3yarn dev
+
 Open your browser and navigate to:
 
 
-Verify
 
-Open In Editor
-Run
-Copy code
 1http://localhost:3000
 Configuration
 
@@ -77,11 +54,6 @@ Set up the necessary environment variables if required.
 Project Structure
 
 
-Verify
-
-Open In Editor
-Run
-Copy code
 1/multi-step-form
 2├── /components         # Reusable components
 3├── /pages              # Next.js pages
@@ -93,7 +65,7 @@ Features
 
 Multi-Step Form: A structured form divided into four steps:
 
-Personal Information
+Personal Information : 
 Address Details
 Preferences
 Review & Submit
